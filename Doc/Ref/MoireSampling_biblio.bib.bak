@@ -1,0 +1,51 @@
+@article{Kotelnikov1933,
+	author = {Kotel'nikov, Vladimir Aleksandrovich},
+	journal = {Izd. Red. Upr. Svyazi RKKA},
+	pages = {1--23},
+	title = {{O propusknoj sposobnosti "efira" i provoloki v elektrosvjazi}},
+	note = {English translation available at \url{http://ict.open.ac.uk/classics/1.pdf}},
+	year = {1933}
+}
+
+@article{Nyquist1928,
+	author = {Nyquist, H.},
+	doi = {10.1109/T-AIEE.1928.5055024},
+	note = {doi:\href{https://www.doi.org/10.1109/T-AIEE.1928.5055024}{10.1109/T-AIEE.1928.5055024}},
+	issn = {0096-3860},
+	journal = {Transactions of the American Institute of Electrical Engineers},
+	number = {2},
+	pages = {617--644},
+	title = {{Certain Topics in Telegraph Transmission Theory}},
+	volume = {47},
+	year = {1928}
+}
+
+@phdthesis{Pofelski2020,
+	author = {Alexandre Pofelski},
+	year = {2020},
+	school = {McMaster University},
+	title = {Strain Characterization Using Scanning Transmission Electron Microscopy and Moiré Interferometry},
+	note = {url:\href{http://hdl.handle.net/11375/25505}{http://hdl.handle.net/11375/25505}}
+}
+
+@article{Shannon1949,
+	author = {Shannon, C.E.},
+	doi = {10.1109/JRPROC.1949.232969},
+	note = {doi:\href{https://www.doi.org/10.1109/JRPROC.1949.232969}{10.1109/JRPROC.1949.232969}},
+	issn = {0096-8390},
+	journal = {Proceedings of the IRE},
+	number = {1},
+	pages = {10--21},
+	title = {{Communication in the Presence of Noise}},
+	volume = {37},
+	year = {1949}
+}
+
+@inbook{Whittaker1910,
+	title = {A History of the Theories of Aether and Electricity from the Age of Descartes to the Close of the Nineteenth Century},
+	author = {Whittaker, E.T.},
+	year = {1910},
+	publisher = {Longmans, Green and Company},
+	chapter = {XII},
+	pages = {422}
+}
